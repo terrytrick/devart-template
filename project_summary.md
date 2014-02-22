@@ -29,6 +29,6 @@ function test() {
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](project_images/cover.jpghttps://9de12286-a-62cb3a1a-s-sites.googlegroups.com/site/trickettimages2/home/Gigue%202%20.jpg?attachauth=ANoY7cpRJJWwP0aDIKOK4UQmGKwO-tfhouHzwQS8BkBzdisOusLxDk_yMbB-fZFJYqz3XMi4qUSAF7IFi8zoeDCWDJDx_YQEL39cf_bRXbb6F3oOaP0xWMXW-9vjrPpbA-d1BVktQ8zR_v3_NaL9tHXSGLJdVZUtppZdsW3BdbiEZXpyofurTs-yQC59U_1P87ibgjbVTbbAAS78_uGYPD6L-hUCELSNu8dbpIIah5F0sPMJ_f_vrm0%3D&attredirects=0raw=true "Example Image")
+![Example Image](project_images/cover.jpg?raw=true "Example Image")
 
 https://www.youtube.com/watch?v=30yGOxJJ2PQ
