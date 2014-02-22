@@ -1,4 +1,4 @@
-# MAMOT  Memories Are Made Of This
+# Memories Are Made Of This (MAMOT)
 Insert the name of your project
 
 ## Authors
