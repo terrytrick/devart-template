@@ -1,10 +1,8 @@
 # Memories Are Made Of This (MAMOT)
-Insert the name of your project
+
 
 ## Authors
 Terry Trickett, terrytrick
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
 How do our brains create and retain memories?  The answer to this question is largely a mystery; although our knowledge of brain function is increasing exponentially, as yet, there is no fully valid model that explains learning and memory.  Much is known about the individual brain cells (neurons) that send out axons to form profuse synapses with other cells so that communication can occur.  But how does this system of synaptic connection create a neural network that continually adjusts to reflect the complexity of events taking place in the external world?  It is a problem of scale, of course.  We can simulate segments of brain activity between a few dozen neurons but not the sophisticated computations between thousands of neurons that enable us to generate, in our minds, a new thought , an idea or a memory.  Memories Are Made Of This (MAMOT) takes a stab at bridging this huge gap in our knowledge and understanding. 
