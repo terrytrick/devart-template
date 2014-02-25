@@ -5,7 +5,7 @@ Insert a description to describe your update to document your creative process. 
 https://www.youtube.com/watch?v=30yGOxJJ2PQ
 
 # An explanation of terms used in my Project Description:
-##### Neurons
+## Neurons
 In the developing human brain, nerve cells (neurons) are generated through subdivision.  It is estimated that the brain’s cerebral cortex (the largest part) contains 15 – 30 billion neurons each possessing and transmitting information through electrical and chemical signals.  Every neuron is connected to thousands of others through a complex but orderly array of neural networks.  Efforts to comprehend the scale of neural activity include SyNAPSE, a multi-billion dollar program in the USA, which aims to develop an electronic neuromorphic  machine technology that scales biological levels.  In 2013, stage 2 of the program produced a system capable of emulating the action potentials of one million neurons.
 
 ##Axons
