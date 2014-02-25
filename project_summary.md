@@ -7,7 +7,7 @@ Terry Trickett, terrytrick
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+How do our brains create and retain memories?  The answer to this question is largely a mystery; although our knowledge of brain function is increasing exponentially, as yet, there is no fully valid model that explains learning and memory.  Much is known about the individual brain cells (neurons) that send out axons to form profuse synapses with other cells so that communication can occur.  But how does this system of synaptic connection create a neural network that continually adjusts to reflect the complexity of events taking place in the external world?  It is a problem of scale, of course.  We can simulate segments of brain activity between a few dozen neurons but not the sophisticated computations between thousands of neurons that enable us to generate, in our minds, a new thought , an idea or a memory.  Memories Are Made Of This (MAMOT) takes a stab at bridging this huge gap in our knowledge and understanding. 
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
