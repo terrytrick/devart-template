@@ -11,7 +11,7 @@ How do our brains create and retain memories?  The answer to this question is la
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
 
 [Example Link](http://youtu.be/4c2MFxiSWfs)
-####The sound track on this video is a recording of a recording.  I do not, as yet, have permission to use the song so it is included here only to substantiate the initial idea.  A final sound track will follow as the project develops
+#####The sound track on this video is a recording of a recording.  I do not, as yet, have permission to use the song so it is included here only to substantiate the initial idea.  A final sound track will follow as the project develops
 
 ## Example Code
 NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
