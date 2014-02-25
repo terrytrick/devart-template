@@ -32,4 +32,4 @@ NOTE: For additional images you can either use a relative link to an image on th
 
 https://www.youtube.com/watch?v=4c2MFxiSWfs&feature=c4-overview&list=UUKVYMpNPznfEJV_RpP4xuqg
 
-#### The sound track on this video is a recording of a recording.  I do not, as yet, have permission to use the song so it is included here only to substantiate the initial idea.  A final sound track will follow as the project develops.
+##### The sound track on this video is a recording of a recording.  I do not, as yet, have permission to use the song so it is included here only to substantiate the initial idea.  A final sound track will follow as the project develops.
