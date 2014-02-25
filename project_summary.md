@@ -10,7 +10,7 @@ How do our brains create and retain memories?  The answer to this question is la
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
 
-[Example Link](http://www.google.com "Example Link")
+[Example Link](http://youtu.be/4c2MFxiSWfs"Example Link")
 
 ## Example Code
 NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
