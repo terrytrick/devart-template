@@ -1,4 +1,5 @@
 # Memories Are Made Of This (MAMOT)
+Please note, I have withdrawn this project from the competition
 
 
 ## Authors
